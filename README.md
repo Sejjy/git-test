@@ -1,3 +1,3 @@
 # git-test
-testing out git
+just testing out git. 
 hello Odin :)
